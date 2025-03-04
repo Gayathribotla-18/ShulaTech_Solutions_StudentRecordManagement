@@ -1,0 +1,1 @@
+# ShulaTech_Solutions_StudentRecordManagement
